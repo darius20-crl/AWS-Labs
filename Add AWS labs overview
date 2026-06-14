@@ -1,0 +1,38 @@
+# AWS Labs
+
+## Overview
+
+This repository contains cloud computing projects and hands-on AWS labs completed as part of academic coursework and self-directed learning.
+
+## Technologies Used
+
+- Amazon EC2
+- AWS Networking
+- Security Groups
+- Linux
+- Cloud Infrastructure
+
+## Projects
+
+### EC2 Instance Deployment
+- Launching virtual machines
+- Instance configuration
+- Security management
+
+### Network Configuration
+- Security Groups
+- Inbound and outbound rules
+- Connectivity testing
+
+### Linux Administration
+- Remote access
+- System updates
+- User management
+
+## Skills Demonstrated
+
+- Cloud Computing
+- AWS Fundamentals
+- Network Security
+- Linux Administration
+- Troubleshooting
